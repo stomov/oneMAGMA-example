@@ -1,0 +1,1 @@
+# oneMAGMA-example
